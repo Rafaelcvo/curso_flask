@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import render_template
 from app import app
 
@@ -26,3 +27,11 @@ def login():
 	# 		return "Olá %s!" % name
 	# 	else:
 	# 		return "Olá usuario!"
+=======
+from app import app
+
+
+@app.route("/")
+def index():
+	return "Hello Word 2"
+>>>>>>> 4ece540f7f1b0317cab9880a0f37eacf8c1344a6
