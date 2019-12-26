@@ -2,28 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="617325f5-15e9-48e1-92e3-dc27c8737448" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/curso_2/aulas/aula3.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_2/aulas/aula3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula10/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula10/templates/calculo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula10/templates/notas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula11/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula11/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula11/templates/setcookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula6/aula6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula6/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula6/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula7/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula8/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula8/static/modelo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula9/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula9/templates/modelo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aulas1-5/aula4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aulas1-5/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_2/aulas/aula1.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_2/aulas/aulas1-5/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_2/aulas/aula2.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_2/aulas/aulas1-5/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_2/aulas/aula3.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_2/aulas/aulas1-5/aula3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="curso_flask" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VRBiPYmU5gH2uxROyC0WHuE7gi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
-    <configuration name="aula3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/curso_2/aulas/aula11/templates" />
+      <recent name="$PROJECT_DIR$/curso_2/aulas/aula10/templates" />
+      <recent name="$PROJECT_DIR$/curso_2/aulas/aulas1-5" />
+      <recent name="$PROJECT_DIR$/curso_2" />
+      <recent name="$PROJECT_DIR$/curso_2/aulas/aula6/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app (4)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso_flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -31,11 +76,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula8/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula9/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula10/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula11/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula7/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula3" />
+        <item itemvalue="Python.app (4)" />
+        <item itemvalue="Python.app (3)" />
+        <item itemvalue="Python.app (2)" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -75,22 +208,73 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1337" height="172" key="GridCell.Tab.0.bottom" timestamp="1577208366300">
+    <state x="1641" y="24" width="800" height="675" key="#Vim_Emulation" timestamp="1577381457800">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state width="1337" height="172" key="GridCell.Tab.0.bottom/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577208366300" />
-    <state width="1337" height="172" key="GridCell.Tab.0.center" timestamp="1577208366300">
+    <state x="1641" y="24" width="800" height="675" key="#Vim_Emulation/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577381457800" />
+    <state x="1806" y="168" width="470" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577366655692">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state width="1337" height="172" key="GridCell.Tab.0.center/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577208366300" />
-    <state width="1337" height="172" key="GridCell.Tab.0.left" timestamp="1577208366300">
+    <state x="1806" y="168" width="470" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366655692" />
+    <state x="1794" y="220" width="494" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577366515893">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state width="1337" height="172" key="GridCell.Tab.0.left/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577208366300" />
-    <state width="1337" height="172" key="GridCell.Tab.0.right" timestamp="1577208366300">
+    <state x="1794" y="220" width="494" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366515893" />
+    <state width="1337" height="119" key="GridCell.Tab.0.bottom" timestamp="1577382948591">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state width="1337" height="172" key="GridCell.Tab.0.right/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577208366300" />
+    <state width="1337" height="119" key="GridCell.Tab.0.bottom/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577382948591" />
+    <state width="1337" height="119" key="GridCell.Tab.0.center" timestamp="1577382948591">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="119" key="GridCell.Tab.0.center/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577382948591" />
+    <state width="1337" height="119" key="GridCell.Tab.0.left" timestamp="1577382948591">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="119" key="GridCell.Tab.0.left/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577382948591" />
+    <state width="1337" height="119" key="GridCell.Tab.0.right" timestamp="1577382948591">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="119" key="GridCell.Tab.0.right/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577382948591" />
+    <state width="1337" height="213" key="GridCell.Tab.1.bottom" timestamp="1577374835986">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="213" key="GridCell.Tab.1.bottom/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
+    <state width="1337" height="213" key="GridCell.Tab.1.center" timestamp="1577374835986">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="213" key="GridCell.Tab.1.center/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
+    <state width="1337" height="213" key="GridCell.Tab.1.left" timestamp="1577374835986">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="213" key="GridCell.Tab.1.left/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
+    <state width="1337" height="213" key="GridCell.Tab.1.right" timestamp="1577374835986">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="1337" height="213" key="GridCell.Tab.1.right/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
+    <state x="1509" y="0" width="992" height="730" key="SettingsEditor" timestamp="1577382162809">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1509" y="0" width="992" height="730" key="SettingsEditor/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577382162809" />
+    <state x="1710" y="25" width="662" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577363481836">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1710" y="25" width="662" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577363481836" />
+    <state x="600" y="0" width="766" height="728" key="find.popup" timestamp="1577366439201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="600" y="0" width="766" height="728" key="find.popup/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366439201" />
+    <state x="1709" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577370847425">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1709" y="89" width="672" height="678" key="search.everywhere.popup/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577370847425" />
+    <state x="1771" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577366620094">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1771" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366620094" />
   </component>
 </project>

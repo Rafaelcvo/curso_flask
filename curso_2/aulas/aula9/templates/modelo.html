@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modelo Template</title>
+</head>
+<body>
+{# Comentarios jinga2 #}
+<p>modelo</p>
+<p> {{ a+b }}</p>
+{% if a >= 50 %}
+    <p>Olá</p>
+{% else %}
+
+{% endif %}
+
+<hr>
+
+<table>
+    {% for k,v in query.items() %}
+    <tr>
+        <td>{{ k }}</td>
+        <td>{{ v }}</td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>
