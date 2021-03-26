@@ -1,2 +1,3 @@
-# curso_flask
-Curso introdutorio de flask
+# Curso sobre Flask
+
+Pasta destinada a cursos sobre Python e Flask.
