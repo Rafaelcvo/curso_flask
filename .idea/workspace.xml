@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="617325f5-15e9-48e1-92e3-dc27c8737448" name="Default Changelist" comment="aula 11">
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula12/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula12/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula12/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula13/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula13/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula14/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula14/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula14/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula14/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/estudantes.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_2/aulas/aula15/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso_flask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso_flask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digital_innovation/ola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_innovation/ola_mundo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VRBiPYmU5gH2uxROyC0WHuE7gi" />
@@ -44,16 +38,16 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/curso_2/aulas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +62,7 @@
       <recent name="$PROJECT_DIR$/curso_2/aulas/aula6/static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
+  <component name="RunManager" selected="Python.ola_mundo">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso_flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +76,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula14/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="curso_flask" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso_2/aulas/aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso_2/aulas/aula10/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,13 +147,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ola_mundo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/digital_innovation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/digital_innovation/ola_mundo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ola_mundo" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.app (5)" />
         <item itemvalue="Python.app (4)" />
-        <item itemvalue="Python.app (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +190,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -214,96 +209,34 @@
       <option name="project" value="LOCAL" />
       <updated>1577383854870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando o arquivo ola mundo.">
+      <created>1616785622192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616785622192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aula 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 11" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1641" y="24" width="800" height="675" key="#HTML" timestamp="1577465871913">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1641" y="24" width="800" height="675" key="#HTML/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577465871913" />
-    <state x="1641" y="24" width="800" height="675" key="#Vim_Emulation" timestamp="1577381457800">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1641" y="24" width="800" height="675" key="#Vim_Emulation/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577381457800" />
-    <state x="1762" y="0" width="558" height="728" key="#app_(1)" timestamp="1577468082797">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1762" y="0" width="558" height="728" key="#app_(1)/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577468082797" />
-    <state x="1806" y="168" width="539" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577469382944">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1806" y="168" width="539" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577469382944" />
-    <state x="1794" y="220" width="494" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577366515893">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1794" y="220" width="494" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366515893" />
-    <state x="1693" y="0" width="695" height="728" key="CommitChangelistDialog2" timestamp="1577383928334">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1693" y="0" width="695" height="728" key="CommitChangelistDialog2/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577383928334" />
-    <state width="1337" height="119" key="GridCell.Tab.0.bottom" timestamp="1577470837661">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="119" key="GridCell.Tab.0.bottom/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577470837661" />
-    <state width="1337" height="119" key="GridCell.Tab.0.center" timestamp="1577470837661">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="119" key="GridCell.Tab.0.center/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577470837661" />
-    <state width="1337" height="119" key="GridCell.Tab.0.left" timestamp="1577470837661">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="119" key="GridCell.Tab.0.left/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577470837661" />
-    <state width="1337" height="119" key="GridCell.Tab.0.right" timestamp="1577470837661">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="119" key="GridCell.Tab.0.right/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577470837661" />
-    <state width="1337" height="213" key="GridCell.Tab.1.bottom" timestamp="1577374835986">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="213" key="GridCell.Tab.1.bottom/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
-    <state width="1337" height="213" key="GridCell.Tab.1.center" timestamp="1577374835986">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="213" key="GridCell.Tab.1.center/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
-    <state width="1337" height="213" key="GridCell.Tab.1.left" timestamp="1577374835986">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="213" key="GridCell.Tab.1.left/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
-    <state width="1337" height="213" key="GridCell.Tab.1.right" timestamp="1577374835986">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state width="1337" height="213" key="GridCell.Tab.1.right/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577374835986" />
-    <state x="1509" y="0" width="992" height="728" key="SettingsEditor" timestamp="1577463876951">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1509" y="0" width="992" height="728" key="SettingsEditor/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577463876951" />
-    <state x="1641" y="99" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1577383863541">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1641" y="99" width="800" height="526" key="Vcs.Push.Dialog.v2/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577383863541" />
-    <state x="1710" y="25" width="662" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577363481836">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1710" y="25" width="662" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577363481836" />
-    <state x="600" y="0" width="766" height="728" key="find.popup" timestamp="1577366439201">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="600" y="0" width="766" height="728" key="find.popup/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366439201" />
-    <state x="1709" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577370847425">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1709" y="89" width="672" height="678" key="search.everywhere.popup/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577370847425" />
-    <state x="1771" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577366620094">
-      <screen x="1366" y="0" width="1360" height="768" />
-    </state>
-    <state x="1771" y="277" width="540" height="169" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1366.0.1360.768/0.0.1366.728@1366.0.1360.768" timestamp="1577366620094" />
+    <MESSAGE value="Criando o arquivo ola mundo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando o arquivo ola mundo." />
   </component>
 </project>
