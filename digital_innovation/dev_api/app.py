@@ -10,6 +10,8 @@ desenvolvedores = [
      'habilidades':['Django', 'Flask']}
 ]
 
+# Devolve um desenvolvedor pelo ID.
+
 @app.route('/dev/<int:id>', methods=['GET', 'PUT', 'DELETE'])
 def desenvolvedor(id):
     if request.method == 'GET':
@@ -26,6 +28,11 @@ def desenvolvedor(id):
     elif request.method == 'DELETE':
         desenvolvedores.pop(id)
         return jsonify({'status':'Sucesso', 'mesagem':'Registro excluido!'})
+
+# Lista todos os desenvolvedores.
+@app.route('/dev/')
+def lista_desenvolvedores():
+
 
 if __name__ == '__main__':
     app.run(debug=True)
