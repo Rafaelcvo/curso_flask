@@ -1,3 +1,3 @@
 # Curso sobre Flask
 
-Pasta destinada a cursos sobre Python e Flask.
+Repositório destinada a cursos sobre Python e Flask.
